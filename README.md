@@ -1,4 +1,3 @@
-### Hi there 👋
 
 APT-SDNmap is SDN-based APTs scanner tool.
 
